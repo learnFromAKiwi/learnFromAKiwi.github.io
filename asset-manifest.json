@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.11aaa2da.chunk.css",
+    "main.js": "/static/js/main.775f0dfd.chunk.js",
+    "main.js.map": "/static/js/main.775f0dfd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.607fe6fa.js",
+    "runtime-main.js.map": "/static/js/runtime-main.607fe6fa.js.map",
+    "static/css/2.69121389.chunk.css": "/static/css/2.69121389.chunk.css",
+    "static/js/2.d6c6beb7.chunk.js": "/static/js/2.d6c6beb7.chunk.js",
+    "static/js/2.d6c6beb7.chunk.js.map": "/static/js/2.d6c6beb7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0741fd253088b8767bc837b8bfe6bb01.js": "/precache-manifest.0741fd253088b8767bc837b8bfe6bb01.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/static/css/2.69121389.chunk.css.map",
+    "static/css/main.11aaa2da.chunk.css.map": "/static/css/main.11aaa2da.chunk.css.map",
+    "static/js/2.d6c6beb7.chunk.js.LICENSE.txt": "/static/js/2.d6c6beb7.chunk.js.LICENSE.txt",
+    "static/media/brand.png": "/static/media/brand.d5f0458a.png",
+    "static/media/cassieBen.jpg": "/static/media/cassieBen.9a6d9f54.jpg",
+    "static/media/esther.jpg": "/static/media/esther.84faf996.jpg",
+    "static/media/exploreTimetableJumbotron.png": "/static/media/exploreTimetableJumbotron.30e2c502.png",
+    "static/media/instructorJumbotron.jpg": "/static/media/instructorJumbotron.6897e3d7.jpg",
+    "static/media/janine.jpg": "/static/media/janine.36529bfe.jpg",
+    "static/media/jumbotron.jpg": "/static/media/jumbotron.b87f582c.jpg",
+    "static/media/landingPageMomJumbo.png": "/static/media/landingPageMomJumbo.6049f095.png",
+    "static/media/landingPageYoga.png": "/static/media/landingPageYoga.c1c9b4e8.png",
+    "static/media/li.jpg": "/static/media/li.3abed537.jpg",
+    "static/media/mariaDeclan.jpg": "/static/media/mariaDeclan.5610c175.jpg",
+    "static/media/max.jpg": "/static/media/max.54d19239.jpg",
+    "static/media/nick.jpg": "/static/media/nick.369899c0.jpg",
+    "static/media/selena.jpg": "/static/media/selena.5b34429f.jpg",
+    "static/media/taryn.jpg": "/static/media/taryn.369899c0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.607fe6fa.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.d6c6beb7.chunk.js",
+    "static/css/main.11aaa2da.chunk.css",
+    "static/js/main.775f0dfd.chunk.js"
+  ]
+}
